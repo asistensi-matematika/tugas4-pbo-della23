@@ -33,8 +33,11 @@ NRP: 06111840000094
  ```asumsikan merupakan segitiga sama sisi```
 ## Screenshot hasil
 ![image](https://user-images.githubusercontent.com/56078501/67016070-ca320000-f121-11e9-9e06-d06abac41e44.png)
+
 ![image](https://user-images.githubusercontent.com/56078501/67016129-e46bde00-f121-11e9-9179-177215240883.png)
+
 ![image](https://user-images.githubusercontent.com/56078501/67016255-18470380-f122-11e9-84af-5e16d7f6b1d8.png)
+
 ![image](https://user-images.githubusercontent.com/56078501/67016336-3f053a00-f122-11e9-9c19-c114b4b8d259.png)
 
 
